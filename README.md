@@ -43,7 +43,7 @@ $ source ./venv/bin/activate
 To run the program:
 
 ```shell
-(venv) $ python3 import.py
+(venv) $ python3 export.py
 Logging in with saved token
 Retrieving account balance...
 Inserting data into BigQuery...
