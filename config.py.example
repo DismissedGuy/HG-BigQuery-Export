@@ -1,0 +1,6 @@
+HG_EMAIL = 'my-email@gmail.com'
+HG_PASS = 'some-random-password'
+
+GOOGLE_APP_CREDENTIALS = 'service-account-key.json'
+
+TARGET_DB = 'great-beaver-123456.hg_billing_data.hg_earnings'
