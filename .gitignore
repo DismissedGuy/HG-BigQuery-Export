@@ -2,3 +2,4 @@ config.py
 *.json
 .honeygain_token
 .idea
+__pycache__/*
